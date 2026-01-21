@@ -1,109 +1,94 @@
-## About Me
+<h1 align="center">Hi, I'm Jobayer Hossain 👋</h1>
 
-Hi, I’m Jobayer Hossain
+<p align="center">
+Full-Stack Web Developer • System Builder • Performance-Oriented Engineer
+</p>
 
-I’m a Full-Stack Web Developer passionate about building modern, scalable, and high-performance web applications. I work across the full development lifecycle — from crafting clean and engaging user interfaces to designing secure, efficient backend systems.
+<p align="center">
+I build scalable, secure, and high-performance web applications with clean architecture and premium UI.
+</p>
 
-I believe great software is not just about functionality, but also about clean architecture, performance, and long-term maintainability.
+---
 
-💻 What I Do
+## ⚡ Tech Focus
 
-🌐 Full-Stack Web Development (Frontend & Backend)
+<p align="center">
+Frontend • Backend • APIs • Databases • Authentication • Performance • Security
+</p>
 
-⚙️ RESTful API Design & Backend Architecture
+---
 
-🎨 Modern, Responsive, and Animated User Interfaces
+## 🧠 Stack Snapshot
 
-🔐 Authentication, Authorization & Security-Focused Development
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+</p>
 
-🚀 Scalable Applications & Real-World Project Implementation
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+</p>
 
-🧠 Tech Stack Frontend
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff">
+</p>
 
-HTML, CSS, JavaScript
+<p align="center">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
+</p>
 
-Responsive Design & Modern UI/UX Principles
+---
 
-Animation-friendly and performance-optimized layouts
+## 🚀 What I Build
 
-Backend
+- Production-ready full-stack applications  
+- Secure authentication & role-based systems  
+- Clean APIs & scalable backend architectures  
+- Modern, responsive, premium UI experiences  
 
-PHP (Laravel)
+---
 
-Database Design & Optimization
+## 📊 GitHub Analytics
 
-Authentication Systems & Role-Based Access Control
+<table>
+<tr>
+<td width="50%" align="center">
 
-Tools & Environment
+<img src="https://readme-stats-fork-mauve.vercel.app/api/?username=jobayerhossain-ai&theme=dark&show_icons=true&count_private=true">
 
-Git & GitHub
+</td>
+<td width="50%" align="center">
 
-Visual Studio Code
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=jobayerhossain-ai&theme=dark">
 
-Linux / Kali Linux
+</td>
+</tr>
+</table>
 
-Deployment & Hosting (Beginner to Intermediate)
+<p align="center">
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=jobayerhossain-ai&theme=dark&langs_count=6">
+</p>
 
-🎯 My Development Philosophy
+---
 
-Clean code over quick hacks
+## 🤝 Connect
 
-Performance and security are non-negotiable
+<p align="center">
+<a href="https://www.linkedin.com/in/jobayer-hossain9787/" target="_blank">LinkedIn</a> •
+<a href="mailto:jovayerhossain0@gmail.com">Email</a>
+</p>
 
-UI should feel premium, not average
-
-Continuous learning and constant improvement
-
-I enjoy working on challenging projects, learning new technologies, and pushing my skills to the next level with every build.
-
-📫 Let’s Connect
-
-I’m always open to:
-
-Collaboration on meaningful projects
-
-Freelance or professional opportunities
-
-Discussing ideas, systems, and scalable solutions
-
-Feel free to explore my repositories and reach out if you’d like to work together.
-
-## My Skills
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"> 
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
-<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
-<img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"> 
-
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=jobayerhossain-ai&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=jobayerhossain-ai&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=jobayerhossain-ai&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/jobayer-hossain9787/" target="_blank">jobayer hossain</a> Email: jovayerhossain0@gmail.com</p>
+<p align="center">
+<b>Building systems that scale. Writing code that lasts.</b>
+</p>
