@@ -1,104 +1,111 @@
 ﻿<p align="center">
-  <img src="https://raw.githubusercontent.com/jobayerhossain-ai/jobayerhossain-ai/main/assets/dark.svg" alt="Jobayer Hossain Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/jobayerhossain-ai/jobayerhossain-ai/main/assets/dark.svg" alt="Jobayer Hossain - Security & Full-Stack Engineer" width="100%" />
 </p>
 
 <div align="center">
-  <a href="https://jobayerportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-jobayerportfolio.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:fatamanusrat7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/jobayerhossain-ai">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jobayerportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jobayerportfolio.vercel.app)
+[![Agency](https://img.shields.io/badge/Agency-Devorica-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.devorica.com/)
+[![Email](https://img.shields.io/badge/Email-fatamanusrat7%40gmail.com-D97706?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatamanusrat7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jobayer_Hossain-0284C7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobayer-hossain9787/)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🏛️ Executive Summary
 
-I’m **Jobayer Hossain** — a Full-Stack Software Engineer & Application Security Researcher based in Noakhali, Bangladesh. I specialize in engineering high-performance web platforms, vulnerability assessments, security auditing, and building scalable digital systems.
+I am **Jobayer Hossain**, a **Full-Stack Software Engineer** and **Application Security Researcher** based in Bangladesh. As the Founder & Lead Engineer at **[Devorica](https://www.devorica.com/)**, I architect high-availability web platforms, audit web application security vectors, and engineer resilient distributed software systems.
 
-> 💼 **Founder & Lead Engineer** @ **[Devorica](https://www.devorica.com/)**  
-> 🎓 **Diploma in Computer Science & Engineering** @ **Institute of Computer Science & Technology (ICST)**  
-> 📍 **Location**: Noakhali, Bangladesh  
-> 🌐 **Portfolio**: **[jobayerportfolio.vercel.app](https://jobayerportfolio.vercel.app)**  
+```typescript
+interface EngineerProfile {
+  name: "Jobayer Hossain";
+  role: "Founder & Lead Engineer @ Devorica";
+  education: "Diploma in Computer Science & Engineering @ ICST";
+  location: "Noakhali, Bangladesh";
+  specializations: [
+    "Full-Stack Web Architecture",
+    "Application Security (AppSec) & Vulnerability Auditing",
+    "High-Performance System Engineering"
+  ];
+  currentFocus: "Next.js 14, Node.js Microservices & OWASP Security Audits";
+}
+```
 
 ---
 
-### 💡 Core Focus & Technical Expertise
+### 🛡️ Core Engineering & Security Competencies
 
-- 🔒 **Security & AppSec**: Vulnerability Assessment, Web Security Auditing, Penetration Testing Concepts, OWASP Top 10, Burp Suite, Kali Linux.
-- ⚡ **Full-Stack Engineering**: Next.js 14, React, Node.js, Express, TypeScript, REST APIs, Tailwind CSS.
-- 🗄️ **Database & Cloud Infrastructure**: Firebase Realtime DB, PostgreSQL, MongoDB, MySQL, Docker, Vercel, Git.
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔒 Application Security</h4>
+      <ul>
+        <li>Vulnerability Assessment (VA/PT)</li>
+        <li>OWASP Top 10 Mitigation</li>
+        <li>Secure Code Auditing</li>
+        <li>Burp Suite &amp; Kali Linux</li>
+        <li>Authentication &amp; RBAC Architecture</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Full-Stack Engineering</h4>
+      <ul>
+        <li>Next.js 14 &amp; React Ecosystem</li>
+        <li>TypeScript Enterprise Systems</li>
+        <li>Node.js / Express Microservices</li>
+        <li>REST &amp; GraphQL API Design</li>
+        <li>State &amp; Cache Optimization</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>☁️ Cloud &amp; Infrastructure</h4>
+      <ul>
+        <li>Docker Containerization</li>
+        <li>PostgreSQL &amp; MongoDB Architecture</li>
+        <li>Firebase Realtime Systems</li>
+        <li>Vercel Deployment Pipelines</li>
+        <li>Git Workflows &amp; CI/CD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 📂 Production Engineering Showcase
+
+| Enterprise System | Core Domain | Technical Architecture | Deployment |
+| :--- | :--- | :--- | :--- |
+| 🚀 **[devorica-agency-platform](https://github.com/jobayerhossain-ai/devorica-agency-platform)** | Agency Core & Design System | React, TypeScript, Tailwind CSS, Vite | Production |
+| 💼 **[agency-portfolio-nextjs](https://github.com/jobayerhossain-ai/agency-portfolio-nextjs)** | Modern Digital Agency Platform | Next.js 14 (App Router), TypeScript, Tailwind | Production |
+| 🏥 **[owsud-sathi-health](https://github.com/jobayerhossain-ai/owsud-sathi-health)** | Digital Pharmacy & Health Ecosystem | JavaScript, PHP REST API, MySQL | Production |
+| 🎫 **[icst-issue-portal](https://github.com/jobayerhossain-ai/icst-issue-portal)** | Institutional Ticket System | React, Express.js, TypeScript, REST API | Staging |
+| 💬 **[annochat](https://github.com/jobayerhossain-ai/annochat)** | Real-Time Anonymous Messaging | Firebase Realtime DB, ES6+ JS, Neon UI | Live Demo |
+
+---
+
+### 📊 System Telemetry & Metrics
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="130"><b>Frontend</b></td>
       <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jobayerhossain-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Telemetry"/>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="130"><b>Backend & Security</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/AppSec-0055DA?style=for-the-badge&logo=shield&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130"><b>Database & Cloud</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossain-ai&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Top Languages"/>
       </td>
     </tr>
   </table>
-</div>
 
----
+  <br/>
 
-### 🔥 Featured Repositories
-
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🚀 **[devorica-agency-platform](https://github.com/jobayerhossain-ai/devorica-agency-platform)** | Enterprise Agency Platform & Modern Design System Showcase | React, TypeScript, Tailwind, Vite |
-| 💼 **[agency-portfolio-nextjs](https://github.com/jobayerhossain-ai/agency-portfolio-nextjs)** | Modern Digital Agency & Service Portfolio Web Application | Next.js 14, TypeScript, Tailwind |
-| 🏥 **[owsud-sathi-health](https://github.com/jobayerhossain-ai/owsud-sathi-health)** | Comprehensive Digital Pharmacy & Healthcare Management Platform | JavaScript, PHP, REST API, Full-Stack |
-| 🎫 **[icst-issue-portal](https://github.com/jobayerhossain-ai/icst-issue-portal)** | Institutional Support Ticket & Issue Tracking Portal | React, Node.js, Express, TypeScript |
-| 💬 **[annochat](https://github.com/jobayerhossain-ai/annochat)** | Real-Time Anonymous Chatting App with Cyberpunk/Neon UI | Firebase Realtime DB, JavaScript, CSS3 |
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jobayerhossain-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossain-ai&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Top Languages"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-ai&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobayerhossain-ai&theme=tokyonight&hide_border=true" width="92%" alt="GitHub Streak"/>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed & Maintained by <a href="https://github.com/jobayerhossain-ai">Jobayer Hossain</a> • Built with ❤️</sub>
+  <sub>Architected &amp; Maintained by <a href="https://github.com/jobayerhossain-ai">Jobayer Hossain</a> • Devorica Engineering</sub>
 </div>
