@@ -26,9 +26,9 @@ interface EngineerProfile {
   specializations: [
     "Full-Stack Web Architecture",
     "Application Security (AppSec) & Vulnerability Auditing",
-    "High-Performance System Engineering"
+    "High-Performance System & UI Design (Claude Design)"
   ];
-  currentFocus: "Next.js 14, Node.js Microservices & OWASP Security Audits";
+  currentFocus: "Next.js 14, Node.js Microservices, Claude Design Systems & AppSec";
 }
 ```
 
@@ -59,17 +59,35 @@ interface EngineerProfile {
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>☁️ Cloud &amp; Infrastructure</h4>
+      <h4>🎨 UI/UX &amp; Infrastructure</h4>
       <ul>
+        <li><b>Claude Design Systems &amp; UI Architecture</b></li>
         <li>Docker Containerization</li>
         <li>PostgreSQL &amp; MongoDB Architecture</li>
         <li>Firebase Realtime Systems</li>
-        <li>Vercel Deployment Pipelines</li>
-        <li>Git Workflows &amp; CI/CD</li>
+        <li>Vercel &amp; CI/CD Pipelines</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### 🛠️ Technical Skill Matrix
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_Design-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AppSec-0055DA?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 ---
 
