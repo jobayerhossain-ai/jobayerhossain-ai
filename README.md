@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am **Jobayer Hossain**, a **Full-Stack Engineer** and **Application Security Researcher** based in **Noakhali, Bangladesh**. I specialize in engineering high-performance web platforms, vulnerability assessments, security auditing, and scalable digital systems.
+I’m **Jobayer Hossain** — a Full-Stack Software Engineer & Application Security Researcher based in Noakhali, Bangladesh. I specialize in engineering high-performance web platforms, vulnerability assessments, security auditing, and building scalable digital systems.
 
 > 💼 **Founder & Lead Engineer** @ **[Devorica](https://www.devorica.com/)**  
 > 🎓 **Diploma in Computer Science & Engineering** @ **Institute of Computer Science & Technology (ICST)**  
