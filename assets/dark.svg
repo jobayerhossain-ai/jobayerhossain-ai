@@ -1,1 +1,201 @@
-﻿
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="100%" height="100%">
+  <defs>
+    <linearGradient id="d-title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+
+    <linearGradient id="d-ascii-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+
+    <clipPath id="d-left-clip">
+      <rect x="24" y="24" width="410" height="562" rx="16"/>
+    </clipPath>
+
+    <style>
+      .font-mono { font-family: 'Fira Code', 'Consolas', 'Courier New', monospace; }
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+
+      @keyframes cursor-blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor { animation: cursor-blink 0.8s infinite; }
+    </style>
+  </defs>
+
+  <rect width="1180" height="610" rx="24" fill="#090D16"/>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <g transform="translate(24, 24)">
+    <rect width="410" height="562" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+
+    <g clip-path="url(#d-left-clip)">
+      <line x1="0" y1="0" x2="410" y2="0" stroke="#38BDF8" stroke-width="2" opacity="0.4">
+        <animate attributeName="y1" values="0;562" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="0;562" dur="4s" repeatCount="indefinite"/>
+      </line>
+    </g>
+
+    <circle cx="24" cy="24" r="5" fill="#EF4444"/>
+    <circle cx="40" cy="24" r="5" fill="#F59E0B"/>
+    <circle cx="56" cy="24" r="5" fill="#10B981"/>
+    <text x="386" y="28" fill="#64748B" font-size="11" class="font-mono" text-anchor="end">cyber-avatar.exe</text>
+    <line x1="0" y1="44" x2="410" y2="44" stroke="#1E293B" stroke-width="1"/>
+
+    <g transform="translate(20, 68)">
+      <animateTransform attributeName="transform" type="translate" values="20,68; 20,62; 20,68" dur="6s" repeatCount="indefinite"/>
+
+      <g fill="url(#d-ascii-grad)" class="font-mono" font-size="10" font-weight="700">
+        <text x="10" y="20" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.1s" dur="0.3s" fill="freeze"/>  ██╗ ██████╗ ██████╗ </text>
+        <text x="10" y="34" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.25s" dur="0.3s" fill="freeze"/>  ██║██╔═══██╗██╔══██╗</text>
+        <text x="10" y="48" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.3s" fill="freeze"/>  ██║██║   ██║██████╔╝</text>
+        <text x="10" y="62" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.55s" dur="0.3s" fill="freeze"/>████║██║   ██║██╔══██╗</text>
+        <text x="10" y="76" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.7s" dur="0.3s" fill="freeze"/>╚████║╚██████╔╝██████╔╝</text>
+        <text x="10" y="90" opacity="0"><animate attributeName="opacity" values="0;1" begin="0.85s" dur="0.3s" fill="freeze"/> ╚═══╝ ╚═════╝ ╚═════╝ </text>
+
+        <text x="35" y="125" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.0s" dur="0.3s" fill="freeze"/>    ┌──────────────────────┐</text>
+        <text x="35" y="140" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.15s" dur="0.3s" fill="freeze"/>    │  ┌────────────────┐  │</text>
+        <text x="35" y="155" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.3s" dur="0.3s" fill="freeze"/>    │  │  [█]  ░░░  [█] │  │</text>
+        <text x="35" y="170" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.45s" dur="0.3s" fill="freeze"/>    │  │     ═══════    │  │</text>
+        <text x="35" y="185" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.3s" fill="freeze"/>    │  │    \  ───  /   │  │</text>
+        <text x="35" y="200" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.75s" dur="0.3s" fill="freeze"/>    │  └────────────────┘  │</text>
+        <text x="35" y="215" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.9s" dur="0.3s" fill="freeze"/>    └──────────────────────┘</text>
+        <text x="35" y="240" opacity="0"><animate attributeName="opacity" values="0;1" begin="2.05s" dur="0.3s" fill="freeze"/>    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+        <text x="35" y="255" opacity="0"><animate attributeName="opacity" values="0;1" begin="2.2s" dur="0.3s" fill="freeze"/>    [ SYSTEM STATUS : ONLINE ]</text>
+        <text x="35" y="270" opacity="0"><animate attributeName="opacity" values="0;1" begin="2.35s" dur="0.3s" fill="freeze"/>    [ CORE ENGINE   : ACTIVE ]</text>
+        <text x="35" y="285" opacity="0"><animate attributeName="opacity" values="0;1" begin="2.5s" dur="0.3s" fill="freeze"/>    [ APPSEC SHIELD : ARMED  ]</text>
+        <text x="35" y="300" opacity="0"><animate attributeName="opacity" values="0;1" begin="2.65s" dur="0.3s" fill="freeze"/>    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+      </g>
+    </g>
+
+    <g transform="translate(24, 468)">
+      <rect width="362" height="70" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
+      <circle cx="22" cy="35" r="5" fill="#10B981"/>
+      <text x="38" y="31" fill="#FFFFFF" font-size="13" font-weight="700" class="font-sans">Security &amp; Full-Stack Engineer</text>
+      <text x="38" y="49" fill="#94A3B8" font-size="11" class="font-mono">Devorica • Noakhali, Bangladesh</text>
+    </g>
+  </g>
+
+  <g transform="translate(454, 24)">
+    <rect width="702" height="562" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+
+    <circle cx="24" cy="24" r="5" fill="#EF4444"/>
+    <circle cx="40" cy="24" r="5" fill="#F59E0B"/>
+    <circle cx="56" cy="24" r="5" fill="#10B981"/>
+    <rect x="200" y="12" width="300" height="24" rx="6" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
+    <text x="350" y="28" fill="#94A3B8" font-size="11" class="font-mono" text-anchor="middle">jobayer@terminal:~</text>
+    <line x1="0" y1="44" x2="702" y2="44" stroke="#1E293B" stroke-width="1"/>
+
+    <g transform="translate(36, 75)">
+      <text x="0" y="0" fill="#38BDF8" font-size="14" class="font-mono" font-weight="700">➜  ~</text>
+      <text x="35" y="0" fill="#94A3B8" font-size="14" class="font-mono">whoami</text>
+
+      <text x="0" y="32" fill="#E2E8F0" font-size="17" class="font-sans" font-weight="500">Hi 👋 I'm</text>
+      <text x="75" y="34" fill="url(#d-title-grad)" font-size="28" class="font-sans" font-weight="900" letter-spacing="-0.5">JOBAYER HOSSAIN</text>
+
+      <g transform="translate(0, 70)">
+        <text x="0" y="0" fill="#34D399" font-size="14" class="font-mono">⚡ Role:</text>
+        
+        <g transform="translate(70, 0)" font-size="15" class="font-mono" font-weight="700" fill="#FFFFFF">
+          <text x="0" y="0" opacity="0">
+            <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.3;0.33" dur="12s" repeatCount="indefinite"/>
+            Full-Stack Software Engineer
+          </text>
+          <text x="0" y="0" opacity="0">
+            <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.33;0.36;0.63;0.66" dur="12s" repeatCount="indefinite"/>
+            Application Security Researcher
+          </text>
+          <text x="0" y="0" opacity="0">
+            <animate attributeName="opacity" values="0;1;1" keyTimes="0.66;0.69;1" dur="12s" repeatCount="indefinite"/>
+            Founder &amp; Lead Engineer @ Devorica
+          </text>
+        </g>
+        <rect x="340" y="-12" width="8" height="16" fill="#38BDF8" class="cursor"/>
+      </g>
+
+      <g transform="translate(0, 115)" font-size="13.5" class="font-sans">
+        <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.3s" fill="freeze"/>
+          <text x="0" y="0" fill="#38BDF8" font-weight="700">📍 Location:</text>
+          <text x="120" y="0" fill="#FFFFFF" font-weight="600">Noakhali, Bangladesh</text>
+        </g>
+        <g opacity="0" transform="translate(0, 24)"><animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.3s" fill="freeze"/>
+          <text x="0" y="0" fill="#38BDF8" font-weight="700">🎓 Education:</text>
+          <text x="120" y="0" fill="#FFFFFF" font-weight="600">Diploma in CSE @ ICST</text>
+        </g>
+        <g opacity="0" transform="translate(0, 48)"><animate attributeName="opacity" values="0;1" begin="0.7s" dur="0.3s" fill="freeze"/>
+          <text x="0" y="0" fill="#38BDF8" font-weight="700">🔒 Focus:</text>
+          <text x="120" y="0" fill="#FFFFFF" font-weight="600">AppSec, Vulnerability Research, Web Systems</text>
+        </g>
+        <g opacity="0" transform="translate(0, 72)"><animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.3s" fill="freeze"/>
+          <text x="0" y="0" fill="#38BDF8" font-weight="700">🌐 Portfolio:</text>
+          <text x="120" y="0" fill="#38BDF8" font-weight="600">jobayerportfolio.vercel.app</text>
+        </g>
+        <g opacity="0" transform="translate(0, 96)"><animate attributeName="opacity" values="0;1" begin="1.1s" dur="0.3s" fill="freeze"/>
+          <text x="0" y="0" fill="#38BDF8" font-weight="700">✉️ Email:</text>
+          <text x="120" y="0" fill="#FFFFFF" font-weight="600">fatamanusrat7@gmail.com</text>
+        </g>
+      </g>
+
+      <g transform="translate(0, 255)">
+        <text x="0" y="0" fill="#94A3B8" font-size="11" class="font-mono" font-weight="700" letter-spacing="1.5">TECHNICAL EXPERTISE</text>
+        
+        <g transform="translate(0, 14)">
+          <g><rect width="72" height="26" rx="6" fill="#1E293B"/><text x="36" y="17" fill="#61DAFB" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">React</text></g>
+          <g transform="translate(80,0)"><rect width="80" height="26" rx="6" fill="#1E293B"/><text x="40" y="17" fill="#FFFFFF" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Next.js</text></g>
+          <g transform="translate(168,0)"><rect width="94" height="26" rx="6" fill="#1E293B"/><text x="47" y="17" fill="#38BDF8" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">TypeScript</text></g>
+          <g transform="translate(270,0)"><rect width="80" height="26" rx="6" fill="#1E293B"/><text x="40" y="17" fill="#4ADE80" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Node.js</text></g>
+          <g transform="translate(358,0)"><rect width="82" height="26" rx="6" fill="#1E293B"/><text x="41" y="17" fill="#22D3EE" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Tailwind</text></g>
+          <g transform="translate(448,0)"><rect width="76" height="26" rx="6" fill="#1E293B"/><text x="38" y="17" fill="#FACC15" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Python</text></g>
+        </g>
+
+        <g transform="translate(0, 48)">
+          <g><rect width="82" height="26" rx="6" fill="#1E293B"/><text x="41" y="17" fill="#FBBF24" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Firebase</text></g>
+          <g transform="translate(90,0)"><rect width="92" height="26" rx="6" fill="#1E293B"/><text x="46" y="17" fill="#60A5FA" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">PostgreSQL</text></g>
+          <g transform="translate(190,0)"><rect width="84" height="26" rx="6" fill="#1E293B"/><text x="42" y="17" fill="#34D399" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">MongoDB</text></g>
+          <g transform="translate(282,0)"><rect width="74" height="26" rx="6" fill="#1E293B"/><text x="37" y="17" fill="#38BDF8" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Docker</text></g>
+          <g transform="translate(364,0)"><rect width="58" height="26" rx="6" fill="#1E293B"/><text x="29" y="17" fill="#FB923C" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">AWS</text></g>
+          <g transform="translate(430,0)"><rect width="52" height="26" rx="6" fill="#1E293B"/><text x="26" y="17" fill="#F87171" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Git</text></g>
+        </g>
+
+        <g transform="translate(0, 82)">
+          <g><rect width="82" height="26" rx="6" fill="#1E293B"/><text x="41" y="17" fill="#F87171" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">AppSec</text></g>
+          <g transform="translate(90,0)"><rect width="70" height="26" rx="6" fill="#1E293B"/><text x="35" y="17" fill="#C084FC" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Burp</text></g>
+          <g transform="translate(168,0)"><rect width="104" height="26" rx="6" fill="#1E293B"/><text x="52" y="17" fill="#A78BFA" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Kali Linux</text></g>
+          <g transform="translate(280,0)"><rect width="70" height="26" rx="6" fill="#1E293B"/><text x="35" y="17" fill="#F472B6" font-size="11.5" font-weight="700" class="font-sans" text-anchor="middle">Figma</text></g>
+        </g>
+      </g>
+
+      <line x1="0" y1="365" x2="630" y2="365" stroke="#1E293B" stroke-width="1"/>
+
+      <g transform="translate(0, 380)">
+        <text x="0" y="14" fill="#94A3B8" font-size="11" class="font-mono" font-weight="700" letter-spacing="1">CONNECT :</text>
+        
+        <g transform="translate(85, -2)">
+          <rect width="32" height="32" rx="6" fill="#1E293B"/>
+          <path d="M16 8C11.58 8 8 11.58 8 16C8 19.54 10.29 22.53 13.47 23.59C13.87 23.66 14.02 23.42 14.02 23.21C14.02 23.02 14.01 22.39 14.01 21.72C11.78 22.21 11.31 19.78 11.31 19.78C10.95 19.86 10.43 19.61 10.43 19.61C9.7 19.11 10.48 19.12 10.48 19.12C11.29 19.18 11.71 19.95 11.71 19.95C12.43 21.19 13.6 20.83 14.06 20.63C14.13 20.11 14.34 19.75 14.57 19.55C12.79 19.35 10.92 17.66 10.92 15.59C10.92 14.72 10.23 13 10.74 12.44C10.66 12.24 10.38 11.42 10.82 10.32C10.82 10.32 11.49 10.11 13.02 11.14C13.66 10.96 14.34 10.87 16.02 11.87C16.7 11.87 17.38 10.96 18.02 11.14C19.55 11.1 20.22 11.32 20.22 11.32C20.66 12.42 20.38 13.24 20.3 13.44C20.81 14 21.12 14.72 21.12 15.59C21.12 18.67 19.24 19.35 16.46 18.54C16.75 18.79 18.01 20.29 18.01 21.05C18.01 22.14 18 23.02 18 23.21C18 23.43 18.15 23.67 18.55 23.59C21.71 22.53 24 19.54 24 16C24 11.58 20.42 7 16 8Z" fill="#FFFFFF"/>
+        </g>
+        
+        <g transform="translate(127, -2)">
+          <rect width="32" height="32" rx="6" fill="#1E293B"/>
+          <path d="M13 13H15.5V14.25H15.54C15.89 13.59 16.74 12.89 17.99 12.89C20.6 12.89 21.08 14.61 21.08 16.86V21H18.47V16.92C18.47 15.95 18.45 14.7 17.12 14.7C15.77 14.7 15.56 15.75 15.56 16.85V21H12.95V13H13ZM9.5 10.25C8.67 10.25 8 9.58 8 8.75C8 7.92 8.67 7.25 9.5 7.25C10.33 7.25 11 7.92 11 8.75C11 9.58 10.33 10.25 9.5 10.25ZM10.8 21H8.2V13H10.8V21Z" fill="#38BDF8"/>
+        </g>
+
+        <g transform="translate(169, -2)">
+          <rect width="32" height="32" rx="6" fill="#1E293B"/>
+          <circle cx="16" cy="16" r="7" stroke="#34D399" stroke-width="1.5" fill="none"/>
+          <line x1="9" y1="16" x2="23" y2="16" stroke="#34D399" stroke-width="1.5"/>
+          <ellipse cx="16" cy="16" rx="3.5" ry="7" stroke="#34D399" stroke-width="1.5" fill="none"/>
+        </g>
+
+        <g transform="translate(211, -2)">
+          <rect width="32" height="32" rx="6" fill="#1E293B"/>
+          <path d="M10 12L16 16.5L22 12M10 20H22V11H10V20Z" stroke="#FBBF24" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
