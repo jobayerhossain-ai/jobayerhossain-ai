@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://raw.githubusercontent.com/jobayerhossain-ai/jobayerhossain-ai/main/assets/dark.svg" alt="Jobayer Hossain Profile Banner" width="100%" />
 </p>
 
@@ -18,14 +18,20 @@
 
 ### 👨‍💻 About Me
 
-I am **Jobayer Hossain**, a full-stack engineer, application security researcher, and tech entrepreneur based in **Noakhali, Bangladesh**. I specialize in engineering high-performance web applications, vulnerability assessment, web security auditing, and building scalable digital ecosystems.
+I am **Jobayer Hossain**, a **Full-Stack Engineer** and **Application Security Researcher** based in **Noakhali, Bangladesh**. I specialize in engineering high-performance web platforms, vulnerability assessments, security auditing, and scalable digital systems.
 
-- 📍 **Location**: Noakhali, Bangladesh
-- 🎓 **Education**: Diploma in Computer Science & Engineering @ **Institute of Computer Science & Technology (ICST)**
-- 🌐 **Portfolio**: **[jobayerportfolio.vercel.app](https://jobayerportfolio.vercel.app)**
-- 🔭 **Currently Building**: Secure web platforms & enterprise solutions at **[Devorica](https://www.devorica.com/)**.
-- 💡 **Core Expertise**: Next.js, React, Node.js, TypeScript, Application Security (AppSec), Vulnerability Assessment & REST APIs.
-- 🚀 **Mission**: Engineering secure, resilient, and production-grade software architectures.
+> 💼 **Founder & Lead Engineer** @ **[Devorica](https://www.devorica.com/)**  
+> 🎓 **Diploma in Computer Science & Engineering** @ **Institute of Computer Science & Technology (ICST)**  
+> 📍 **Location**: Noakhali, Bangladesh  
+> 🌐 **Portfolio**: **[jobayerportfolio.vercel.app](https://jobayerportfolio.vercel.app)**  
+
+---
+
+### 💡 Core Focus & Technical Expertise
+
+- 🔒 **Security & AppSec**: Vulnerability Assessment, Web Security Auditing, Penetration Testing Concepts, OWASP Top 10, Burp Suite, Kali Linux.
+- ⚡ **Full-Stack Engineering**: Next.js 14, React, Node.js, Express, TypeScript, REST APIs, Tailwind CSS.
+- 🗄️ **Database & Cloud Infrastructure**: Firebase Realtime DB, PostgreSQL, MongoDB, MySQL, Docker, Vercel, Git.
 
 ---
 
@@ -34,7 +40,7 @@ I am **Jobayer Hossain**, a full-stack engineer, application security researcher
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120"><b>Frontend</b></td>
+      <td align="center" width="130"><b>Frontend</b></td>
       <td>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -45,7 +51,7 @@ I am **Jobayer Hossain**, a full-stack engineer, application security researcher
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>Backend &amp; Security</b></td>
+      <td align="center" width="130"><b>Backend & Security</b></td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -54,7 +60,7 @@ I am **Jobayer Hossain**, a full-stack engineer, application security researcher
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>Database &amp; Cloud</b></td>
+      <td align="center" width="130"><b>Database & Cloud</b></td>
       <td>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
