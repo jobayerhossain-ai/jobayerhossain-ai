@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.devorica.com/">
-    <img src="https://img.shields.io/badge/Agency-Devorica-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://jobayerportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-jobayerportfolio.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:fatamanusrat7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,12 +22,14 @@
 
 ### 👨‍💻 About Me
 
-I am **Jobayer Hossain**, a full-stack engineer, application security researcher, and tech entrepreneur based in **Feni, Bangladesh**. I specialize in engineering high-performance web applications, vulnerability assessment, web security auditing, and building scalable digital ecosystems.
+I am **Jobayer Hossain**, a full-stack engineer, application security researcher, and tech entrepreneur based in **Noakhali, Bangladesh**. I specialize in engineering high-performance web applications, vulnerability assessment, web security auditing, and building scalable digital ecosystems.
 
-- 🔭 **Currently Building**: Secure web platforms & enterprise client solutions at **[Devorica](https://www.devorica.com/)**.
+- 📍 **Location**: Noakhali, Bangladesh
+- 🎓 **Education**: Diploma in Computer Science & Engineering @ **Institute of Computer Science & Technology (ICST)**
+- 🌐 **Portfolio**: **[jobayerportfolio.vercel.app](https://jobayerportfolio.vercel.app)**
+- 🔭 **Currently Building**: Secure web platforms & enterprise solutions at **[Devorica](https://www.devorica.com/)**.
 - 💡 **Core Expertise**: Next.js, React, Node.js, TypeScript, Application Security (AppSec), Vulnerability Assessment & REST APIs.
 - 🚀 **Mission**: Engineering secure, resilient, and production-grade software architectures.
-- 💬 **Ask me about**: Full-stack web architecture, cybersecurity, vulnerability hunting, and secure coding practices.
 
 ---
 
